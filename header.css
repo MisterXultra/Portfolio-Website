@@ -1,0 +1,11 @@
+header{
+    margin-top: 24px;
+    margin-bottom: 24px;    
+
+}
+.mitte{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
